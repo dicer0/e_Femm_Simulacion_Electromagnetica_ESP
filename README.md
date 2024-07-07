@@ -14,4 +14,4 @@ And this specific repository contains documentation about the Femm software, whi
 <br/>
 &nbsp;
 
-[![Altium Designer](http://dicer0.com/wp-content/uploads/2024/05/e_Femm_MkII.png)](https://dicer0.com/#skills)
+[![Femm](http://dicer0.com/wp-content/uploads/2024/05/e_Femm_MkII.png)](https://dicer0.com/#skills)
